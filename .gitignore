@@ -1,0 +1,17 @@
+# Your local Supabase keys — NEVER commit this
+config.js
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# If you ever add Node later
+node_modules/
+.env
+.env.local
